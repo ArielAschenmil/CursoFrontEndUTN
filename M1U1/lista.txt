@@ -2,3 +2,6 @@ Pan
 Jamon
 Queso
 Mayonesa
+
+Lechuga
+Tomate
