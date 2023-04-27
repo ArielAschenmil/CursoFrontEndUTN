@@ -1,0 +1,19 @@
+h1{
+    color: #dc143c;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+h2{
+    color: darkred;
+}
+h3{
+    color:white;
+}
+h4{
+    background-color: salmon;
+}
+body{
+    background-color: cornflowerblue;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+}
